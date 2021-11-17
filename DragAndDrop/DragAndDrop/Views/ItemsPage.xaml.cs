@@ -130,7 +130,7 @@ namespace DragAndDrop.Views
             ItemsCollection.Add(new ItemsInfo() { Name = "Wired Mouse", Price = "Rs: 349", Image1 = ImageSource.FromFile("mouse.jpg") });
             ItemsCollection.Add(new ItemsInfo() { Name = "Pen Drive", Price = "Rs: 670", Image1 = ImageSource.FromFile("pendrive.jpg") });
             ItemsCollection.Add(new ItemsInfo() { Name = "Wireless Keyboard", Price = "Rs: 1,199", Image1 = ImageSource.FromFile("keyboard.jpg") });
-            ItemsCollection.Add(new ItemsInfo() { Name = "USB Type-C Cable", Price = "Rs: 228", Image1 = ImageSource.FromFile("usb.jpg") });
+            ItemsCollection.Add(new ItemsInfo() { Name = "USB Type-C Cable", Price = "Rs: 228", Image1 = ImageSource.FromFile("usb.png") });
             ItemsCollection.Add(new ItemsInfo() { Name = "Buds Z", Price = "Rs: 2,999", Image1 = ImageSource.FromFile("budsZ.jpg") });
             ItemsCollection.Add(new ItemsInfo() { Name = "Airdopes", Price = "Rs: 1,299", Image1 = ImageSource.FromFile("airpodes.jpg") });
             ItemsCollection.Add(new ItemsInfo() { Name = "Car Charger", Price = "Rs: 699", Image1 = ImageSource.FromFile("charger.jpg") });

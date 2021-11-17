@@ -133,4 +133,112 @@
       <Name>DragAndDrop</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\airpodes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\apple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\beanbag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bottle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\budsZ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\charger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chopper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fridge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\heater.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\induction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\iron.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kettle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\keyboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\laptoptable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lava.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\oppo15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\oppo31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\oven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pad5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\panasonic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\papers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pendrive.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\redmi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\samsung.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\swingchair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\usb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\users1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\users2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\washingmachine.jpg" />
+  </ItemGroup>
 </Project>
